@@ -57,3 +57,5 @@ This will execute the compiled program.
 make clean
 ```
 This will delete main.exe.
+
+https://github.com/user-attachments/assets/6788772a-1755-484f-9157-8e3e2bf60e87
