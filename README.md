@@ -1,6 +1,6 @@
 # Simple Makefile Example Project
 
-This is a minimal C++ project demonstrating how to use [raylib](https://www.raylib.com/) with a simple setup on Windows using a custom Makefile.
+This is a minimal C++ project that demonstrates how to use Raylib with a simple setup on Windows using a custom Makefile. You can check out the [article here](https://medium.com/@avowed/getting-started-with-makefile-for-a-simple-c-23-project-cda0dcbe91a5).
 
 ---
 
